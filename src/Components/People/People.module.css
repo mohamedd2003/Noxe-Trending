@@ -1,0 +1,11 @@
+.brdr{
+    height: 1px;
+background-color: #a8a8a83d;
+}
+.rate{
+   
+    position: absolute;
+}
+.pic:hover img{
+transform:scale(2)
+}
